@@ -13,4 +13,5 @@
 |  |
 | ------- |
 | [1068-product-sales-analysis-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1068-product-sales-analysis-i) |
+| [1693-daily-leads-and-partners](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
