@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0035-search-insert-position) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,4 +21,12 @@
 |  |
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+## Math
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
