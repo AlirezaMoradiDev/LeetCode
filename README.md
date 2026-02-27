@@ -16,4 +16,8 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1068-product-sales-analysis-i) |
 | [1693-daily-leads-and-partners](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1693-daily-leads-and-partners) |
+## String
+|  |
+| ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
