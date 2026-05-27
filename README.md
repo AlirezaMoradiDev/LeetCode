@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0035-search-insert-position) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1929-concatenation-of-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Math
 |  |
 | ------- |
