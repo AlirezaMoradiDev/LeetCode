@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0035-search-insert-position) |
+| [0485-max-consecutive-ones](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-shuffle-the-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1929-concatenation-of-array) |
