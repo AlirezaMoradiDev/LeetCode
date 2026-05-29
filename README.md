@@ -9,6 +9,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-shuffle-the-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1929-concatenation-of-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Prefix Sum
 |  |
