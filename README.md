@@ -8,6 +8,7 @@
 | [0485-max-consecutive-ones](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-shuffle-the-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
