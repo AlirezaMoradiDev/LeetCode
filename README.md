@@ -8,6 +8,7 @@
 | [0485-max-consecutive-ones](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-shuffle-the-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -68,6 +69,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
