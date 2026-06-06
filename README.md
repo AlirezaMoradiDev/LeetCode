@@ -13,6 +13,7 @@
 | [1929-concatenation-of-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -43,6 +44,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
