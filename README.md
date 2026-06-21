@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [3838-weighted-word-mapping](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3838-weighted-word-mapping) |
