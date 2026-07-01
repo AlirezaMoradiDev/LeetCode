@@ -11,6 +11,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -36,6 +37,7 @@
 | [0058-length-of-last-word](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0058-length-of-last-word) |
 | [0434-number-of-segments-in-a-string](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3838-weighted-word-mapping](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
