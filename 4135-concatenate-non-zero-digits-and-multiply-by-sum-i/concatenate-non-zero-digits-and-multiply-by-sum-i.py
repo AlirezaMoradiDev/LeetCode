@@ -7,8 +7,9 @@ class Solution:
                 x += digit
             
         if x != '': 
-            new_lst = [int(i) for i in x]
-            answer = int(x) * sum(new_lst)
+            lst.clear()
+            lst = [int(i) for i in x]
+            answer = int(x) * sum(lst)
             return answer
         
         return 0
