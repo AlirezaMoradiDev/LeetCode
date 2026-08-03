@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [0434-number-of-segments-in-a-string](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
 |  |
@@ -86,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
