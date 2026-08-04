@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-shuffle-the-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
 ## Counting
@@ -88,6 +90,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
