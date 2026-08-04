@@ -22,6 +22,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -78,6 +79,7 @@
 | [0217-contains-duplicate](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
