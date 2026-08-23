@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -40,6 +41,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [0434-number-of-segments-in-a-string](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1748-sum-of-unique-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -94,6 +97,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0242-valid-anagram) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
