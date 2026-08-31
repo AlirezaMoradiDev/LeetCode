@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0704-binary-search) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-shuffle-the-array](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0704-binary-search) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Database
 |  |
