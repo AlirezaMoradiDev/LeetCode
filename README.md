@@ -28,6 +28,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3838-weighted-word-mapping) |
+| [3903-smallest-stable-index-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [1732-find-the-highest-altitude](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
