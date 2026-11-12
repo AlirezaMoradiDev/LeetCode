@@ -24,6 +24,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
