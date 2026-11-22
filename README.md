@@ -59,6 +59,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/AlirezaMoradiDev/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
